@@ -4,7 +4,8 @@ This repository contains the high-fidelity design files for the **Personal Portf
 
 # Figma Prototype Link
 
-[Figma Link]([https://www.figma.com/design/s6MYkXBCzovYa0r0YAngkO/portfolio-profile-design?t=myWpkVSfYzS5dc5k-0](https://www.figma.com/proto/s6MYkXBCzovYa0r0YAngkO/portfolio-profile-design?t=myWpkVSfYzS5dc5k-1))
+[Figma Link](https://www.figma.com/proto/s6MYkXBCzovYa0r0YAngkO/portfolio-profile-design?t=myWpkVSfYzS5dc5k-1)
+
 
 ## Contents
 
